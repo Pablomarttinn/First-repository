@@ -1,2 +1,3 @@
 # First-repository
-# This repository is used as a test for the coursera course
+# This repository is used as a test for the coursera course: Tools for data Science
+
